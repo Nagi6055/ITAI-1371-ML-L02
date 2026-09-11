@@ -1,12 +1,32 @@
-1.	INTRODUCTION-(NAME)
-[type]
-2.	DESCRIPTION OF EXPERIENCE/TOPIC -(NAME)
-[type]
-3.	PERSONAL REFLECTION -(NAME)
-[type]
-4.	DISCUSSION OF IMPROVEMENT AND LEARNING-(NAME)
-[type]
-5.	CONCLUSION -(NAME)
-[type]
-6.	REFERENCES -(NAME)
-[type]
+1.	INTRODUCTION
+In this module 2 lab, L02 ML (Machine Learning) Development Tools lab, it has given me the opportunity to develop a new understanding in this new platform called Google Collab 
+and also the different tools that can be used in machine learning and data analysis, while using Python. 
+As we use these tools with the using the programming language Python, I learned how to use features such as pandas, NumPy, and matplotlib. With this I was able to follow this lab that 
+involves in getting the data set for the Iris flower and learn to use and see how in Google Collab we get the raw numerical data to a more organized and visualized format to make it easier to summarize and 
+presenting it more professionally.
+
+2.	DESCRIPTION OF EXPIRIENCE/TOPIC
+Firstly, this is a completely new platform that I have never heard of before and I am completely amazed about that. I also did not know when it comes to machine learning, it is all about it depending heavily on data that it is 
+given, but also the features that help the machine run the data to give us what we need. The lab that I just work with, Iris data set, barely had any of the structured data, but help build my insight in learning about the 
+importance of features, numerical measurements, patterns with the data, and the classes given.
+Secondly, learning about the difference in the Python libraries can have different purposes in how they can manipulate the dataset and being able to organize them, and being able to do calculations to make numerical values. 
+But the best part is getting all the data together and being able to make a visualizing table that fit best with the information we want to get. I never expected that so many tools can help create a large data analysis.
+
+3.	PERSONAL REFLECTION
+Visualization is everything. Without the tools we used we wouldn’t be able to visualize the data we have generated, but also the fact I had to visualize how multiple tools can work together. 
+To make things more presentable too, we need to understand what and who we are working with as we need to keep things professional, because if we think about it, machine learning we must be able to distinguish the different 
+patterns and how each feature are distinguished from each other like in the lab.
+
+4.	DISCUSSION OF IMPROVEMENT AND LEARNING
+The things I need to improve and learn is of course learning the Google Collab platform since it is new to me, also knowing how to work with it in different platforms such as GitHub and of course VS Code, since I noticed that 
+all three of them are connected and can be very collaborative.
+The other thing I need to learn and have it processed in my mind is the fact that tools don’t have to work alone. Machines have many tools going to allow them to work so it’s the same process for everything. 
+This lab became an eye opener of what machine learning truly means and made me think in how I can collaborate all the tools we have to this day since technology is always advancing.
+
+5.	CONCLUSION
+In conclusion, Lab L02 help improve my understanding and insight of how machine learning can work well with data analysis with all the tools that were introduced in this lab. 
+Also notice each tool has their own specialty but can create something even greater when working with other tools depending on what you’re trying to achieve. So going forward I would like to learn to be more creative in 
+combining different features/tools together to create something more advanced and professional.
+
+6.	REFERENCES
+For references, I mainly refer to the reference guide to google collab to have a basic understanding of what I’m working with. I also did quick look up on the tools used such as pandas, NumPy, and matplotlib.
